@@ -1,6 +1,4 @@
-# raspberry_pi_led
-
-Blink LEDs with your Raspberry Pi
+# Blink LEDs with your Raspberry Pi
 
 These example scripts are used in the tutorial video
 https://www.youtube.com/watch?v=CgGqIvRXH3U&lc=z12qjj2oiljpgxqan04ccrfw5yyxtd3x1iw
